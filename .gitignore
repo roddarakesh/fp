@@ -1,10 +1,10 @@
 # Compiled class file
 *.class
 
-.gradle/
-.idea/
-.idea
 .gradle
+.gradle/
+.idea
+.idea/
 
 # Log file
 *.log
